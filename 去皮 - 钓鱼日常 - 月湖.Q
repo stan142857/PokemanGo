@@ -10,7 +10,7 @@ RunOnce=1
 EnableWindow=
 MacroID=c94a2feb-269f-4c6e-bcec-0ec68bcbf215
 Description=去皮 - 钓鱼日常 - 月湖
-Enable=0
+Enable=1
 AutoRun=0
 [Repeat]
 Type=0
